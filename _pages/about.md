@@ -21,6 +21,7 @@ Feel free to explore my work and reach out for collaboration!
 Publications
 ======
 Ziwen Song, Bin Wang, Xiaochun Yang: Accelerating High-Dimensional ANN Search via Skipping Redundant Distance Computations. (SIGMOD 2026)
+
 Ziwen Song, Bin Wang, Xirui Zhang, Shihao Zhao, Xiaochun Yang: 向量数据库中近似最近邻搜索关键技术综述. Survey on Key Techniques of Approximate Nearest Neighbor Search in Vector Databases (Chinese Journal of Software, 2026,37(3):971-1005)
 
 
